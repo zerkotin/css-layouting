@@ -6,6 +6,9 @@ this should also teach you how to think and plan your DOM and components in term
 
 Here's the main subjects...  
 
+## Chapter 1 prerequisits 
+basic HTML structure and Tags / Elements
+
 ## Chapter 1 basics
 syntax  
 selectors (element / id / class)  
@@ -25,6 +28,7 @@ fixed
 TBD - static?  
 
 ## Chapter 4 fine tuning
+units (px, em ...)  
 width, height + min/max  
 top, right, bottom, left  
 padding  
@@ -49,4 +53,5 @@ more...
 
 ## Chapter 7 advanced displays
 Advanved displays (flex, grid, table)  
-
+Viewports
+Media queries
