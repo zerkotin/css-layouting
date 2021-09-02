@@ -7,9 +7,9 @@ this should also teach you how to think and plan your DOM and components in term
 Here's the main subjects...  
 
 ## Chapter 1 basics
-syntax
-selectors (element / id / class)
-selector combinations
+syntax  
+selectors (element / id / class)  
+selector combinations  
 specificity
 
 ## Chapter 2 display
@@ -43,8 +43,8 @@ colors (foreground + background)
 shadows
 
 ## Chapter 6 pseudo selectors
-:before :after
-:hover :active
+:before :after  
+:hover :active  
 more...
 
 ## Chapter 7 advanced displays
