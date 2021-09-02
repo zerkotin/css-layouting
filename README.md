@@ -24,7 +24,6 @@ inline
 relative  
 absolute  
 fixed  
-TBD - static?  
 
 ## Chapter 4 fine tuning
 units (px, em ...)  
