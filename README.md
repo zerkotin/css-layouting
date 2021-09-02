@@ -6,19 +6,25 @@ this should also teach you how to think and plan your DOM and components in term
 
 Here's the main subjects...  
 
-## Chapter 1 displays
+## Chapter 1 basics
+syntax
+selectors (element / id / class)
+selector combinations
+specificity
+
+## Chapter 2 display
 block  
 inline-block  
 inline  
 TBD - Table and Flex?  
 
-## Chapter 2 position
+## Chapter 3 position
 relative  
 absolute  
 fixed  
 TBD - static?  
 
-## Chapter 3 fine tuning
+## Chapter 4 fine tuning
 width, height + min/max  
 top, right, bottom, left  
 padding  
@@ -30,12 +36,17 @@ transform
 overflow  
 Layering (z-index)  
 
-## Chapter 4 design
+## Chapter 5 design
 borders (+radius)  
 fonts (family + size + fontawesome)  
 colors (foreground + background)  
-shadows  
+shadows
 
-## Chapter 5 extra
-TBD?  
+## Chapter 6 pseudo selectors
+:before :after
+:hover :active
+more...
+
+## Chapter 7 advanced displays
+Advanved displays (flex, grid, table)  
 
