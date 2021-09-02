@@ -13,15 +13,23 @@ div {
 ```
 
 ## inline
-Each element defined by the selector will be placed in a line width and height will be ignored
+Each element defined by the selector will be placed in a line with its siblings width and height will be ignored
 ```css
 div {
   display: inline;
 }
 ```
-
+## inline-block
+Each element defined by the selector will be placed in a line with its siblings width and height take effect
 ```css
 div {
   display: inline-block;
 }
 ```
+
+# Advanced types
+Each of those is a subject in and of itself and we will take some look at those later
+- flex
+- table
+- grid
+
