@@ -15,11 +15,10 @@ selectors (element / id / class)
 selector combinations  
 specificity
 
-## Chapter 2 display
+## Chapter display
 block  
 inline-block  
 inline  
-TBD - Table and Flex?  
 
 ## Chapter 3 position
 relative  
