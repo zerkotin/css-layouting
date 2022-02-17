@@ -9,6 +9,19 @@ Here's the main subjects...
 ## Chapter 1 prerequisits 
 basic HTML structure and Tags / Elements
 
+### TAGS
+* HTML
+* body
+* header
+* footer
+* script
+* a
+* br
+* div
+* span
+* ol / li
+* full list https://www.w3schools.com/TAgs/default.asp
+
 ## Chapter 1 basics
 syntax  
 selectors (element / id / class)  
