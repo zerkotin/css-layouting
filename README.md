@@ -24,23 +24,23 @@ basic HTML structure and Tags / Elements
 
 # CSS
 
-## Chapter 1 Basics
+## Chapter 1 - Basics
 * syntax  
 * selectors (element / id / class)  
 * selector combinations  
 * specificity
 
-## Chapter 2 Display
+## Chapter 2 - Display
 * block  
 * inline-block  
 * inline  
 
-## Chapter 3 Position
+## Chapter 3 - Position
 * relative  
 * absolute  
 * fixed  
 
-## Chapter 4 Fine Tuning
+## Chapter 4 - Fine Tuning
 * units (px, em ...)  
 * width, height + min/max  
 * top, right, bottom, left  
@@ -53,18 +53,18 @@ basic HTML structure and Tags / Elements
 * overflow  
 * layering (z-index)  
 
-## Chapter 5 Beautify
+## Chapter 5 - Beautify
 * borders (+radius)  
 * fonts (family + size + fontawesome)  
 * colors (foreground + background)  
 * shadows
 
-## Chapter 6 Pseudo Selectors
+## Chapter 6 - Pseudo Selectors
 * :before :after  
 * :hover :active  
 * more ?
 
-## Chapter 7 Advanced Display Types
+## Chapter 7 - Advanced Display Types
 * Advanved displays (flex, grid, table)  
 * Media queries
 * Viewports
