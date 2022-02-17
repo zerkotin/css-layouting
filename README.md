@@ -6,10 +6,11 @@ this should also teach you how to think and plan your DOM and components in term
 
 Here are main subjects...  
 
-## Chapter 1 Prerequisits 
+# HTML Prerequisits 
 basic HTML structure and Tags / Elements
 
-### TAGS
+## HTML and TAGS
+* syntax
 * html / body / head
 * link
 * script
@@ -21,47 +22,50 @@ basic HTML structure and Tags / Elements
 * html5 
 * full list https://www.w3schools.com/TAgs/default.asp
 
-## Chapter 1 Basics
-syntax  
-selectors (element / id / class)  
-selector combinations  
-specificity
+# CSS
 
-## Chapter Display
-block  
-inline-block  
-inline  
+## Chapter 1 Basics
+* syntax  
+* selectors (element / id / class)  
+* selector combinations  
+* specificity
+
+## Chapter 2 Display
+* block  
+* inline-block  
+* inline  
 
 ## Chapter 3 Position
-relative  
-absolute  
-fixed  
+* relative  
+* absolute  
+* fixed  
 
 ## Chapter 4 Fine Tuning
-units (px, em ...)  
-width, height + min/max  
-top, right, bottom, left  
-padding  
-margins  
-vertical-align  
-text-align  
-float  
-transform  
-overflow  
-Layering (z-index)  
+* units (px, em ...)  
+* width, height + min/max  
+* top, right, bottom, left  
+* padding  
+* margins  
+* vertical-align  
+* text-align  
+* float  
+* transform  
+* overflow  
+* layering (z-index)  
 
 ## Chapter 5 Beautify
-borders (+radius)  
-fonts (family + size + fontawesome)  
-colors (foreground + background)  
-shadows
+* borders (+radius)  
+* fonts (family + size + fontawesome)  
+* colors (foreground + background)  
+* shadows
 
 ## Chapter 6 Pseudo Selectors
-:before :after  
-:hover :active  
-more...
+* :before :after  
+* :hover :active  
+* more ?
 
 ## Chapter 7 Advanced Display Types
-Advanved displays (flex, grid, table)  
-Viewports
-Media queries
+* Advanved displays (flex, grid, table)  
+* Media queries
+* Viewports
+
