@@ -1,7 +1,7 @@
 # CSS Layouting
 Basic CSS for Layouting  
 
-I would like to prepare a Training for Basic CSS for Layouting.  
+I would like to prepare a Training for Basic CSS / HTML Layouting, or "Thinking CSS / HTML".  
 this should also teach you how to think and plan your DOM and components in terms of UI.  
 
 Here's the main subjects...  
