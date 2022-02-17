@@ -20,7 +20,7 @@ basic HTML structure and Tags / Elements
 * input
 * ol / li
 * html5 
-* [full list] (https://www.w3schools.com/TAgs/default.asp)
+* (full list) [https://www.w3schools.com/TAgs/default.asp]
 
 # CSS
 
