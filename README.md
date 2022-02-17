@@ -10,7 +10,6 @@ Here's the main subjects...
 basic HTML structure and Tags / Elements
 
 ### TAGS
-* HTML
 * body
 * header
 * footer
