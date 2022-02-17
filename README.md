@@ -9,7 +9,7 @@ Here are main subjects...
 # HTML Prerequisits 
 basic HTML structure and Tags / Elements
 
-## HTML and TAGS
+## HTML and TAGs
 * syntax
 * html / body / head
 * link
@@ -20,7 +20,7 @@ basic HTML structure and Tags / Elements
 * input
 * ol / li
 * html5 
-* [Full List of HTML Tags](https://www.w3schools.com/TAgs/default.asp)
+* [Full List of HTML TAGs](https://www.w3schools.com/TAgs/default.asp)
 
 # CSS
 
