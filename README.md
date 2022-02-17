@@ -4,14 +4,13 @@ Basic CSS for Layouting
 I would like to prepare a Training for Basic CSS / HTML Layouting, or "Thinking CSS / HTML".  
 this should also teach you how to think and plan your DOM and components in terms of UI.  
 
-Here's the main subjects...  
+Here are main subjects...  
 
-## Chapter 1 prerequisits 
+## Chapter 1 Prerequisits 
 basic HTML structure and Tags / Elements
 
 ### TAGS
-* body
-* head
+* html / body / head
 * link
 * script
 * a
@@ -19,25 +18,26 @@ basic HTML structure and Tags / Elements
 * div / span / p
 * input
 * ol / li
+* html5 
 * full list https://www.w3schools.com/TAgs/default.asp
 
-## Chapter 1 basics
+## Chapter 1 Basics
 syntax  
 selectors (element / id / class)  
 selector combinations  
 specificity
 
-## Chapter display
+## Chapter Display
 block  
 inline-block  
 inline  
 
-## Chapter 3 position
+## Chapter 3 Position
 relative  
 absolute  
 fixed  
 
-## Chapter 4 fine tuning
+## Chapter 4 Fine Tuning
 units (px, em ...)  
 width, height + min/max  
 top, right, bottom, left  
@@ -50,18 +50,18 @@ transform
 overflow  
 Layering (z-index)  
 
-## Chapter 5 design
+## Chapter 5 Beautify
 borders (+radius)  
 fonts (family + size + fontawesome)  
 colors (foreground + background)  
 shadows
 
-## Chapter 6 pseudo selectors
+## Chapter 6 Pseudo Selectors
 :before :after  
 :hover :active  
 more...
 
-## Chapter 7 advanced displays
+## Chapter 7 Advanced Display Types
 Advanved displays (flex, grid, table)  
 Viewports
 Media queries
