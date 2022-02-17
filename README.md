@@ -11,13 +11,11 @@ basic HTML structure and Tags / Elements
 
 ### TAGS
 * body
-* header
-* footer
+* head
 * script
 * a
 * br
-* div
-* span
+* div / span / p
 * ol / li
 * full list https://www.w3schools.com/TAgs/default.asp
 
