@@ -1,4 +1,4 @@
-# CSS Layouting
+# Layouting
 Basic CSS for Layouting  
 
 I would like to prepare a Training for Basic CSS / HTML Layouting, or "Thinking CSS / HTML".  
